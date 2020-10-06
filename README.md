@@ -4,3 +4,4 @@
 
 - 🔭 I’m currently working at Affirm
 - 💬 Ask me about anything!
+- 🦀 Currently very into Rust
