@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Ramp](https://ramp.com/)
 - 💬 Ask me about anything!
-- I contributed to [Scalabel](https://github.com/scalabel/scalabel), the biggest and growing annotation tool in the industry.
+- Contributor of [Scalabel](https://github.com/scalabel/scalabel), the biggest and growing annotation tool in the industry.
 
 [comment]: <> (open-source-contributions start)
 ## Open Source Contributions
